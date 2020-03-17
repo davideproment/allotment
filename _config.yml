@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Davide Proment's allotment blog
+title: The 054b allotment
 #email: cmpmth.lso@uea.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to the blog of the Bluebell South 054b allotment in Norwich. 
+  Welcome to the blog of the 054b allotment in Bluebell South Rd, Norwich. 
 baseurl: "/allotment/" # the subpath of your site, e.g. /blog
 url: "https://davideproment.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: UEA_Maths

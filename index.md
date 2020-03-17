@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to Davide Proment's allotment blog!
+Welcome to the 054b allotment!

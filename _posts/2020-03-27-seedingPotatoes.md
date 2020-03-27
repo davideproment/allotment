@@ -12,17 +12,17 @@ The manure we spread in December that has been sitting under the black sheet for
 ![](/allotment/assets/2020-03-27/IMG_4793.jpg)
 
 Hopefully our seed potatoes won't matter too much! 
-After about an hour of hard work, our first line of the plot is completed with lines of "Red Duke of York" (right),
+After about an hour of hard work, our first line of the plot is completed with lines of the "Red Duke of York",
 
 ![](/allotment/assets/2020-03-27/IMG_4799.jpg)
 
-"Rocket" (left),
+"Rocket",
 
 ![](/allotment/assets/2020-03-27/IMG_4800.jpg)
 
-and "Wilja" (center) seed potatoes. 
-A nice feeling at job done!
+and "Wilja" (in the center) variaties. 
 
 ![](/allotment/assets/2020-03-27/IMG_4796.jpg)
 
+A nice feeling at job done!
 

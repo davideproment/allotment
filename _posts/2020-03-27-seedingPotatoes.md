@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seeding second early potatoes"
+title:  "Seeding potatoes"
 date:   2020-03-27
 categories: preparation
 ---

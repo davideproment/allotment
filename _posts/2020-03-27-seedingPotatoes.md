@@ -7,11 +7,11 @@ categories: preparation
 
 This afternoon my wife and I took a break from our working at home to seed the second early potatoes. 
 
-The manure we spread in December that has been sitting under the black sheet for more than three months isn't yet completely ready. 
+The manure we spread in December that has been sitting under the black sheet for more than three months isn't yet completely ready.
+Hopefully our seed potatoes won't matter too much! 
 
 ![](/allotment/assets/2020-03-27/IMG_4793.jpg)
 
-Hopefully our seed potatoes won't matter too much! 
 After about an hour of hard work, our first line of the plot is completed with lines of the "Red Duke of York",
 
 ![](/allotment/assets/2020-03-27/IMG_4799.jpg)

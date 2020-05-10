@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "First mowning of the year"
+title:  "First mowing of the year"
 date:   2020-04-11
 categories: preparation
 ---
 
-Today first mowning of the year. 
+Today first mowing of the year. 
 Soon I will have to mow every 3-4 weeks, not the most exciting thing to do!
 
 ![](/allotment/assets/2020-04-11/IMG_4872.jpg)

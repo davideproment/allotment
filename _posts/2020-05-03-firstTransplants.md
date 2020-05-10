@@ -18,3 +18,6 @@ Then we transplanted under the tunnel the first tomatoes and chillies that Marc 
 
 Also the first potatoes are coming out!
 ![](/allotment/assets/2020-05-03/IMG_20200503_132218.jpg)
+
+![](/allotment/assets/2020-05-03/b766fb15-eabb-4026-945c-60480d51443c.jpg)
+

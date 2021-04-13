@@ -17,7 +17,9 @@ The main potatoe plot has, from left to right, "Charlotte", "Cara", and "Maris P
 ![](/allotment/assets/2021-03-30/IMG_5532.jpeg)
 
 ![](/allotment/assets/2021-03-30/IMG_5533.jpeg)
+
 ![](/allotment/assets/2021-03-30/IMG_5534.jpeg)
+
 ![](/allotment/assets/2021-03-30/IMG_5535.jpeg)
 
 The extra potatoe plot has, from right to left, "Cara" and "Desiree", plus some potatoes seeds from last year on the left and top.
@@ -25,5 +27,6 @@ The extra potatoe plot has, from right to left, "Cara" and "Desiree", plus some 
 ![](/allotment/assets/2021-03-30/IMG_5540.jpeg)
 
 ![](/allotment/assets/2021-03-30/IMG_5539.jpeg)
+
 ![](/allotment/assets/2021-03-30/IMG_5538.jpeg)
 
